@@ -1,3 +1,5 @@
-# greenboxyt.github.io
+# Retro.github.io
 
-Credit 3kho, https://github.com/tw31122007/HTML-Games-V2
+Credits:
+https://github.com/tw31122007/HTML-Games-V2,
+3kho
